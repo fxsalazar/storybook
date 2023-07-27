@@ -1,3 +1,9 @@
+## 7.2.0-rc.1
+
+- Core: Fix channelOptions for serverChannel - [#23615](https://github.com/storybookjs/storybook/pull/23615), thanks [@ndelangen](https://github.com/ndelangen)!
+- Maintainance: Fix codeowner docs glob - [#23610](https://github.com/storybookjs/storybook/pull/23610), thanks [@kasperpeulen](https://github.com/kasperpeulen)!
+- NextJS: Add `@babel/core` as a dependency - [#22450](https://github.com/storybookjs/storybook/pull/22450), thanks [@valentinpalkovic](https://github.com/valentinpalkovic)!
+
 ## 7.2.0-rc.0
 
 - Addon: Create @storybook/addon-themes - [#23524](https://github.com/storybookjs/storybook/pull/23524), thanks [@Integrayshaun](https://github.com/Integrayshaun)!
